@@ -1,3 +1,12 @@
 I have made changes and completed Git Assignment 4
+<<<<<<< HEAD
 I have made changes and completed Git Assignment 4
 I have made changes and completed Git Assignment 4
+=======
+
+I have made changes and completed Git Assignment 4 
+
+I have made changes and completed Git Assignment 4
+
+I have made changes and completed Git Assignment 4
+>>>>>>> feature/newFeature
